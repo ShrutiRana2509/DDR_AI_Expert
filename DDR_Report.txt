@@ -1,0 +1,33 @@
+**Detailed Diagnostic Report (DDR)**
+
+**1. Property Issue Summary**
+The residential apartment in Pune, India, inspected on January 12, 2026, exhibits signs of moisture intrusion, water seepage, and minor structural issues. The primary concerns are damp patches, minor cracks, paint peeling, and musty odors, indicating potential water ingress and moisture presence.
+
+**2. Area-wise Observations**
+- Bedroom: Damp patches near the window, slight musty odor, and poor ventilation.
+- Living Room: Minor cracks on the ceiling.
+- Kitchen: Paint peeling.
+- External Wall: Signs of water seepage after rainfall.
+
+**3. Probable Root Cause**
+The probable root cause of the issues is water ingress, possibly due to external water penetration, exacerbated by poor ventilation in the bedroom. The exact source of water penetration is Not Available.
+
+**4. Severity Assessment**
+The severity of the issues is moderate, with reasoning as follows:
+- Moisture intrusion and water seepage can lead to structural damage and health concerns if not addressed.
+- The presence of damp patches, musty odors, and paint peeling indicates an existing problem that requires attention.
+- However, no major structural deformation or active leakage was found, suggesting that the issues are currently contained.
+
+**5. Recommended Actions**
+1. Investigate and repair the source of external water penetration.
+2. Improve ventilation in the bedroom to reduce moisture accumulation.
+3. Repair damp patches, cracks, and paint peeling.
+4. Monitor the property for signs of further water ingress or moisture intrusion.
+
+**6. Additional Notes**
+- The dampness increases during the monsoon season, indicating a potential correlation between rainfall and water seepage.
+- The thermal report confirms moisture intrusion in the bedroom wall and possible external water penetration.
+
+**7. Missing or Unclear Information**
+- The exact source of water penetration is Not Available.
+- Further investigation is required to determine the root cause of the water ingress and to develop a comprehensive repair plan.
