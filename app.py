@@ -6,7 +6,7 @@ from reportlab.pdfgen import canvas
 import tempfile
 import re
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "API_KEY"
 client = Groq(api_key=GROQ_API_KEY)
 
 
@@ -175,3 +175,4 @@ if st.button("🚀 Generate Advanced DDR"):
         with col2:
             with open(pdf_path, "rb") as f:
                 st.download_button("Download PDF", f, file_name="DDR_Report.pdf")
+
